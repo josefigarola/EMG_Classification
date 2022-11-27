@@ -1,0 +1,32 @@
+\begin{table}[]
+\caption{Single Subject Independent Results.}
+\centering
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1}
+\begin{tabular}{c|ccccc}
+\hline
+\textbf{Classifier} & \textbf{Mean} & \textbf{Std} & \textbf{Min} & \textbf{Max} \\
+\hline
+
+LDA & 90.778\% & \textpm3.217 & 86.319\% & 94.861\% \\
+\hline
+SVML & 88.139\% & \textpm3.695 & 82.917\% & 93.472\% \\
+\hline
+SVMR & 88.417\% & \textpm3.841 & 82.431\% & 92.986\% \\
+\hline
+MLP1 & 88.042\% & \textpm3.94 & 82.43\% & 93.194\% \\
+\hline
+MLP2 & 87.778\% & \textpm3.835 & 82.431\% & 92.778\% \\
+\hline
+MLP3 & 88.264\% & \textpm3.559 & 83.056\% & 92.569\% \\
+\hline
+NNET1 & 88.319\% & \textpm3.709 & 83.125\% & 93.264\% \\
+\hline
+NNET2 & 87.986\% & \textpm3.534 & 82.639\% & 92.5\% \\
+\hline
+NNET3 & 88.986\% & \textpm3.256 & 84.375\% & 93.195\% \\
+\hline
+
+\hline
+\end{tabular}
+\end{table}

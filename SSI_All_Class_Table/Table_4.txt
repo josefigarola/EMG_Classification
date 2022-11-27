@@ -1,0 +1,23 @@
+\begin{table}[]
+\caption{Single Subject Independent Movements Results.}
+\centering
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1}
+\begin{tabular}{c|ccccccc}
+\hline
+\textbf{Classifier} & \textbf{M1} & \textbf{M2} & \textbf{M3} & \textbf{M4}  & \textbf{M5} & \textbf{M6} & \textbf{Mean} \\
+\hline
+
+LDA & 100.0\textpm10.0 & 97.5\textpm10.99 & 95.0\textpm6.51 & 97.5\textpm6.46 & 100.0\textpm8.9 & 100.0\textpm12.55 & 98.33\% \\\hline
+SVML & 75.0\textpm8.11 & 72.5\textpm13.07 & 95.0\textpm9.99 & 97.5\textpm8.95 & 75.0\textpm10.79 & 85.0\textpm13.35 & 83.33\% \\\hline
+SVMR & 92.5\textpm7.0 & 92.5\textpm12.41 & 95.0\textpm7.32 & 95.0\textpm6.21 & 97.5\textpm9.8 & 97.5\textpm12.18 & 95.0\% \\\hline
+MLP1 & 82.5\textpm6.79 & 100.0\textpm12.09 & 97.5\textpm8.38 & 100.0\textpm7.96 & 90.0\textpm10.89 & 97.5\textpm12.87 & 94.58\% \\\hline
+MLP2 & 87.5\textpm7.92 & 82.5\textpm13.2 & 85.0\textpm9.7 & 100.0\textpm9.65 & 80.0\textpm10.42 & 90.0\textpm11.98 & 87.5\% \\\hline
+MLP3 & 72.5\textpm7.32 & 60.0\textpm12.61 & 72.5\textpm9.25 & 77.5\textpm7.6 & 80.0\textpm10.05 & 72.5\textpm12.02 & 72.5\% \\\hline
+NNET1 & 92.5\textpm8.74 & 92.5\textpm11.53 & 97.5\textpm7.79 & 95.0\textpm7.86 & 85.0\textpm9.65 & 75.0\textpm11.38 & 89.58\% \\\hline
+NNET2 & 90.0\textpm7.62 & 97.5\textpm12.76 & 97.5\textpm9.01 & 92.5\textpm9.34 & 97.5\textpm11.04 & 95.0\textpm12.92 & 95.0\% \\\hline
+NNET3 & 87.5\textpm8.98 & 85.0\textpm11.35 & 80.0\textpm8.93 & 80.0\textpm6.62 & 77.5\textpm10.68 & 85.0\textpm11.77 & 82.5\% \\\hline
+
+\hline
+\end{tabular}
+\end{table}
