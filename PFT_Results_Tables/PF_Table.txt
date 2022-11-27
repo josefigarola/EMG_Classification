@@ -1,0 +1,18 @@
+\begin{table}[]
+\caption{Warm Start Results}
+\centering
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1}
+\begin{tabular}{c|cccccccccc}
+\hline
+\textbf{Classifier} & \textbf{0\%} & \textbf{10\%} & \textbf{20\%} & \textbf{30\%} & \textbf{40\%} & \textbf{50\%} & \textbf{60\%} & \textbf{70\%} & \textbf{80\%} & \textbf{90\%} \\
+\hline
+MLP1 & 51.5 & 54.398 & 54.913 & 54.782 & 54.768 & 54.361 & 53.958 & 54.167 & 54.931 & 56.806 \\
+\hline
+MLP2 & 53.083 & 55.91 & 56.424 & 57.282 & 57.546 & 57.195 & 57.083 & 56.713 & 57.292 & 61.389 \\
+\hline
+MLP3 & 53.417 & 56.404 & 57.483 & 58.095 & 57.87 & 58.5 & 57.986 & 58.38 & 58.819 & 61.528 \\
+\hline
+\hline
+\end{tabular}
+\end{table}
