@@ -1,0 +1,76 @@
+\begin{table}[]
+\caption{MLP1 Single Subject Independent Results.}
+\centering
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1}
+\begin{tabular}{c|cccc}
+\hline
+\hline
+\textbf{Subject} & \textbf{Mean} & \textbf{Std} & \textbf{Min} & \textbf{Max} \\
+\hline
+\hline
+S00 & 97.917\% & \textpm1.318 & 95.833\% & 100.0\% \\
+\hline
+S01 & 84.167\% & \textpm3.385 & 79.167\% & 89.583\% \\
+\hline
+S02 & 94.583\% & \textpm2.5 & 91.667\% & 97.917\% \\
+\hline
+S03 & 94.583\% & \textpm2.826 & 89.583\% & 97.917\% \\
+\hline
+S04 & 83.75\% & \textpm4.823 & 77.083\% & 91.667\% \\
+\hline
+S05 & 69.167\% & \textpm7.144 & 58.333\% & 79.167\% \\
+\hline
+S06 & 89.583\% & \textpm4.37 & 83.333\% & 93.75\% \\
+\hline
+S07 & 95.0\% & \textpm3.118 & 89.583\% & 97.917\% \\
+\hline
+S08 & 78.75\% & \textpm4.449 & 70.833\% & 83.333\% \\
+\hline
+S09 & 80.0\% & \textpm5.204 & 75.0\% & 89.583\% \\
+\hline
+S10 & 69.167\% & \textpm4.823 & 64.583\% & 75.0\% \\
+\hline
+S11 & 96.667\% & \textpm1.667 & 93.75\% & 97.917\% \\
+\hline
+S12 & 79.583\% & \textpm5.171 & 72.917\% & 85.417\% \\
+\hline
+S13 & 85.0\% & \textpm6.897 & 75.0\% & 93.75\% \\
+\hline
+S14 & 97.083\% & \textpm2.826 & 93.75\% & 100.0\% \\
+\hline
+S15 & 95.417\% & \textpm5.171 & 85.417\% & 100.0\% \\
+\hline
+S16 & 94.583\% & \textpm2.125 & 91.667\% & 97.917\% \\
+\hline
+S17 & 99.167\% & \textpm1.021 & 97.917\% & 100.0\% \\
+\hline
+S18 & 95.0\% & \textpm3.385 & 91.667\% & 100.0\% \\
+\hline
+S19 & 96.25\% & \textpm2.041 & 93.75\% & 100.0\% \\
+\hline
+S20 & 92.083\% & \textpm3.333 & 87.5\% & 95.833\% \\
+\hline
+S21 & 78.75\% & \textpm7.022 & 70.833\% & 91.667\% \\
+\hline
+S22 & 93.333\% & \textpm2.43 & 89.583\% & 95.833\% \\
+\hline
+S23 & 90.833\% & \textpm5.204 & 81.25\% & 95.833\% \\
+\hline
+S24 & 84.167\% & \textpm5.035 & 75.0\% & 89.583\% \\
+\hline
+S25 & 83.75\% & \textpm4.249 & 77.083\% & 89.583\% \\
+\hline
+S26 & 80.833\% & \textpm3.333 & 77.083\% & 85.417\% \\
+\hline
+S27 & 93.75\% & \textpm3.727 & 89.583\% & 97.917\% \\
+\hline
+S28 & 92.917\% & \textpm2.826 & 89.583\% & 97.917\% \\
+\hline
+S29 & 75.417\% & \textpm6.77 & 64.583\% & 85.417\% \\
+\hline
+\textbf{All}&\textbf{88.042\%}&\textbf{\textpm3.94}&\textbf{82.43\%}&\textbf{93.194\%} \\
+\hline
+\hline
+\end{tabular}
+\end{table}
