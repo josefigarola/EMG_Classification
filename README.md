@@ -44,6 +44,8 @@ The dataset consists of 30 subjects, and 240 trials.
 ## Team
 
 Jose Miguel Figarola Prado - A01632557@tec.mx - jmfigarolaprado2@gmail.com
+
 Yelile Iga Valdes - A01634978@tec.mx
+
 Victor Andrés Gonzalez Saldaña - A01382698@tec.mx
 
