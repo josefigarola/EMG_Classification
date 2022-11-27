@@ -1,0 +1,22 @@
+\begin{table}[]
+\caption{Leave One Out Participant Movements Results.}
+\centering
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1}
+\begin{tabular}{c|ccccccc}
+\hline
+\textbf{Classifier} & \textbf{M1} & \textbf{M2} & \textbf{M3} & \textbf{M4}  & \textbf{M5} & \textbf{M6} & \textbf{Mean} \\
+\hline
+
+LDA & 86.03\textpm0.79 & 80.78\textpm0.98 & 85.09\textpm1.3 & 87.33\textpm1.4 & 76.55\textpm1.29 & 80.52\textpm0.9&82.72\% \\\hline
+SVML & 86.21\textpm0.8 & 79.91\textpm1.23 & 84.91\textpm1.5 & 89.48\textpm1.47 & 76.98\textpm1.51 & 78.97\textpm1.12&82.74\% \\\hline
+SVMR & 85.95\textpm0.78 & 78.97\textpm0.95 & 86.38\textpm1.08 & 87.59\textpm0.98 & 79.91\textpm1.17 & 77.5\textpm0.87&82.72\% \\\hline
+MLP1 & 85.0\textpm1.1 & 80.6\textpm1.2 & 85.86\textpm0.96 & 89.91\textpm1.04 & 74.22\textpm1.52 & 78.79\textpm0.98&82.4\% \\\hline
+MLP2 & 87.59\textpm0.99 & 81.29\textpm1.02 & 86.47\textpm1.19 & 87.59\textpm0.9 & 78.02\textpm1.41 & 76.29\textpm0.85&82.88\% \\\hline
+MLP3 & 84.31\textpm0.72 & 78.79\textpm0.93 & 85.69\textpm0.94 & 87.67\textpm1.01 & 80.0\textpm1.16 & 76.72\textpm0.94&82.2\% \\\hline
+NNET1 & 85.34\textpm1.47 & 82.07\textpm1.5 & 86.98\textpm1.11 & 88.53\textpm1.24 & 79.31\textpm2.28 & 81.21\textpm1.63&83.91\% \\\hline
+NNET2 & 87.16\textpm1.08 & 82.84\textpm1.84 & 83.36\textpm1.18 & 88.36\textpm1.15 & 78.71\textpm1.48 & 78.97\textpm1.46&83.23\% \\\hline
+NNET3 & 82.5\textpm1.21 & 80.95\textpm1.68 & 85.0\textpm1.29 & 86.72\textpm0.89 & 79.4\textpm1.78 & 78.36\textpm1.53&82.15\% \\\hline
+\hline
+\end{tabular}
+\end{table}

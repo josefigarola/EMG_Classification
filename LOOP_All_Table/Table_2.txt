@@ -1,0 +1,32 @@
+\begin{table}[]
+\caption{Leave One Out Participant Results.}
+\centering
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1}
+\begin{tabular}{c|ccccc}
+\hline
+\textbf{Classifier} & \textbf{Mean} & \textbf{Std} & \textbf{Min} & \textbf{Max} & \textbf{Test} \\
+\hline
+
+LDA & 60.247\% & \textpm0.8 & 59.262\% & 61.516\% & 55.25\% \\
+\hline
+SVML & 65.322\% & \textpm0.936 & 64.042\% & 66.612\% & 55.542\% \\
+\hline
+SVMR & 73.743\% & \textpm0.796 & 72.78\% & 75.017\% & 56.931\% \\
+\hline
+MLP1 & 80.8\% & \textpm0.868 & 79.59\% & 81.949\% & 51.5\% \\
+\hline
+MLP2 & 82.325\% & \textpm0.908 & 81.02\% & 83.566\% & 53.083\% \\
+\hline
+MLP3 & 83.064\% & \textpm0.925 & 81.693\% & 84.298\% & 53.417\% \\
+\hline
+NNET1 & 81.768\% & \textpm0.987 & 80.513\% & 83.221\% & 52.944\% \\
+\hline
+NNET2 & 82.35\% & \textpm0.91 & 81.113\% & 83.63\% & 52.819\% \\
+\hline
+NNET3 & 82.893\% & \textpm0.992 & 81.485\% & 84.239\% & 52.5\% \\
+\hline
+
+\hline
+\end{tabular}
+\end{table}
