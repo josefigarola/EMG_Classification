@@ -1,5 +1,5 @@
 # EMG_Classification
-> Fine hand movements classification and Incremental Learning.
+> Fine hand movements classification and Incremental Learning using Warm Start and Partial Fit.
 
 This project retrieved Electromyographic signals or EMG signals from 6 different hand movements.
 In order to obtain the best results, 9 different classifier were used to train the model.
@@ -41,10 +41,9 @@ The dataset consists of 30 subjects, and 240 trials.
     * First approach to EMG data analysis and classifiers.
 
 
-## Meta
+## Team
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Jose Miguel Figarola Prado - A01632557@tec.mx - jmfigarolaprado2@gmail.com
+Yelile Iga Valdes - A01634978@tec.mx
+Victor Andrés Gonzalez Saldaña - A01382698@tec.mx
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
