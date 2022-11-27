@@ -1,0 +1,18 @@
+\begin{table}[]
+\caption{Partial Fit Results}
+\centering
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1}
+\begin{tabular}{c|cccccccccc}
+\hline
+\textbf{Classifier} & \textbf{0\%} & \textbf{10\%} & \textbf{20\%} & \textbf{30\%} & \textbf{40\%} & \textbf{50\%} & \textbf{60\%} & \textbf{70\%} & \textbf{80\%} & \textbf{90\%} \\
+\hline
+MLP1 & 51.5 & 56.265 & 56.996 & 56.686 & 56.62 & 56.139 & 55.556 & 56.018 & 56.389 & 61.111 \\
+\hline
+MLP2 & 53.083 & 57.299 & 58.229 & 59.345 & 59.861 & 59.389 & 59.653 & 59.907 & 59.653 & 65.972 \\
+\hline
+MLP3 & 53.417 & 57.685 & 60.104 & 61.429 & 61.042 & 60.945 & 60.451 & 60.926 & 61.25 & 64.722 \\
+\hline
+\hline
+\end{tabular}
+\end{table}
