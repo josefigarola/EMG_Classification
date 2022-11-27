@@ -1,5 +1,6 @@
-# EMG_Classification
-> Fine hand movements classification and Incremental Learning using Warm Start and Partial Fit.
+# Enhancing EMG-Based Recognition of Fine Hand Movements with Incremental Learning and Warm Start
+> NeuroTechnology Laboratory
+> Tecnologico de Monterrey
 
 This project retrieved Electromyographic signals or EMG signals from 6 different hand movements.
 In order to obtain the best results, 9 different classifier were used to train the model.
