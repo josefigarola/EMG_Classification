@@ -2,10 +2,7 @@
 > NeuroTechnology Laboratory
 > Tecnologico de Monterrey
 
-[Research Paper]
-(
-https://rcs.cic.ipn.mx/rcs/2023_152_6/Reconocimiento%20de%20movimientos%20finos%20de%20la%20mano%20basado%20en%20senales%20de%20electromiografia.pdf
-)
+[Research Paper](https://rcs.cic.ipn.mx/rcs/2023_152_6/Reconocimiento%20de%20movimientos%20finos%20de%20la%20mano%20basado%20en%20senales%20de%20electromiografia.pdf)
 This project retrieved Electromyographic signals or EMG signals from 6 different hand movements.
 In order to obtain the best results, 9 different classifier were used to train the model.
 To increase the accuracy of the model, Warm Start and Partial Fit are used to readjust the model's performance.
